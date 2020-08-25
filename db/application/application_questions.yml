@@ -2,16 +2,45 @@
 
 questions:
   - title:
-      'What sparked your interest in the work TBG does? Why do you feel you are a good fit for the organization? (400 words max) 
-      Some prompts to get you thinking: How do your personal and professional goals align with joining TBG? 
-      What do you hope to gain from the project work and fellow members? 
-      What experience, background, or insight in the social sector can you contribute to TBG?'
+      'What does “social sector passion” mean to you? (100 words max)'
     qtype:
       0
     category:
       0
     limit:
-      3000
+      750
+  - title:
+      'What is a social issue that you are passionate about and how would you 
+      tangibly address it? (100 words max)'
+    qtype:
+      0
+    category:
+      0
+    limit:
+      750
+  - title:
+      'Describe any past professional or extracurricular experience that you believe 
+      applies to the work TBG does. (100 words max)'
+    qtype:
+      0
+    category:
+      0
+    limit:
+      750
+  - title:
+      'What does diversity mean to you? (50 words max)'
+    qtype:
+      0
+    category:
+      0
+    limit:
+      375
+  - title:
+      'If you heard about your application from an email to your organization, name it here'
+    qtype:
+      1
+    category:
+      0
   - title:
       'Please list all activities you will be participating in this semester
        and time commitment per week.'
