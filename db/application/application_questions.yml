@@ -36,7 +36,7 @@ questions:
     limit:
       375
   - title:
-      'If you heard about your application from an email to your organization, name it here'
+      'If you heard about our application from an email to your organization, name it here'
     qtype:
       1
     category:
