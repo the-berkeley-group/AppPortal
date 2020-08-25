@@ -12,10 +12,10 @@
 class Settings < ActiveRecord::Base
   acts_as_singleton
 
-  validates :stage, numericality: { less_than: 3 }
+  validates :stage, numericality: { less_than: 2 }
 
   def format_stage
-    stages = %w(resume group personal)
+    stages = %w(resume personal)
     stages[stage]
   end
 
