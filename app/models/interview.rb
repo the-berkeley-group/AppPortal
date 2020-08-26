@@ -31,7 +31,7 @@ class Interview < ActiveRecord::Base
   end
 
   def format_timeslot
-    timeslot.strftime("%a %b %d, %I:%M %p")ls
+    timeslot.strftime("%a %b %d, %I:%M %p")
   end
 
   private
