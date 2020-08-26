@@ -2,7 +2,7 @@
 
 questions:
   - title:
-      'What does “social sector passion” mean to you? (100 words max)'
+      'What does “social sector passion” mean to you?'
     qtype:
       0
     category:
@@ -11,7 +11,7 @@ questions:
       750
   - title:
       'What is a social issue that you are passionate about and how would you 
-      tangibly address it? (100 words max)'
+      tangibly address it?'
     qtype:
       0
     category:
@@ -20,7 +20,7 @@ questions:
       750
   - title:
       'Describe any past professional or extracurricular experience that you believe 
-      applies to the work TBG does. (100 words max)'
+      applies to the work TBG does.'
     qtype:
       0
     category:
@@ -28,7 +28,7 @@ questions:
     limit:
       750
   - title:
-      'What does diversity mean to you? (50 words max)'
+      'What does diversity mean to you?'
     qtype:
       0
     category:
