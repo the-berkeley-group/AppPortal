@@ -16,7 +16,7 @@ class Interview < ActiveRecord::Base
   default_scope { order "timeslot" }
 
   # Interview capacity by stage
-  INTERVIEW_CAPACITY = { 0 => 1, 1 => 1, 2 => 1}
+  INTERVIEW_CAPACITY = { 0 => 1, 1 => 1}
 
   def self.available
     Interview.all.select(&:available?)
@@ -31,7 +31,7 @@ class Interview < ActiveRecord::Base
   end
 
   def format_timeslot
-    timeslot.strftime("%a %b %d, %I:%M %p")
+    timeslot.strftime("%a %b %d, %I:%M %p")ls
   end
 
   private
