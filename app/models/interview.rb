@@ -16,7 +16,7 @@ class Interview < ActiveRecord::Base
   default_scope { order "timeslot" }
 
   # Interview capacity by stage
-  INTERVIEW_CAPACITY = { 0 => 3, 1 => 3, 2 => 1}
+  INTERVIEW_CAPACITY = { 0 => 3, 1 => 3, 2 => 5}
 
   def self.available
     Interview.all.select(&:available?)

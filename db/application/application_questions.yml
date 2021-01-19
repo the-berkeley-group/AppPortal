@@ -2,39 +2,29 @@
 
 questions:
   - title:
-      'What does “social sector passion” mean to you?'
+      'What makes you passionate about the social sector? What social issue are you passionate about and why? (300 words)'
     qtype:
       0
     category:
       0
     limit:
-      750
+    1800
   - title:
-      'What is a social issue that you are passionate about and how would you 
-      tangibly address it?'
+      'Elaborate on any past academic or extracurricular experience you have had. What did you learn that can be applied while working for the social sector? (250 words)'
     qtype:
       0
     category:
       0
     limit:
-      750
+      1500
   - title:
-      'Describe any past professional or extracurricular experience that you believe 
-      applies to the work TBG does.'
+      'Describe a time when you helped foster diversity and/or inclusivity in your own school, clubs, or immediate environment. (200 words)'
     qtype:
       0
     category:
       0
     limit:
-      750
-  - title:
-      'What does diversity mean to you?'
-    qtype:
-      0
-    category:
-      0
-    limit:
-      375
+      1200
   - title:
       'Please list all activities you will be participating in this semester
        and time commitment per week.'
@@ -76,8 +66,7 @@ questions:
     category:
       1
   - title:
-      'Please share any additional information (or N/A) that you would like The
-       Berkeley Group to know.'
+      'Is there anything you feel TBG should know about you or your circumstances as your application is reviewed? Please do not use this question except to highlight your background or any extenuating circumstances! E.g. do not use this space to further elaborate your resume. (max 100 words)'
     qtype:
       0
     category:
