@@ -8,7 +8,7 @@ questions:
     category:
       0
     limit:
-    1800
+      500
   - title:
       'Elaborate on any past academic or extracurricular experience you have had. What did you learn that can be applied while working for the social sector? (250 words)'
     qtype:
